@@ -2,6 +2,7 @@
 [⬅ Go Back](/README.md)
 
 ## Contents
+- [Types of Sorts]
 - [Bubble Sort](/sort/bubble-sort.md)
 - [Selection Sort](/sort/selection-sort.md)
 - [Insertion Sort](/sort/insertion-sort.md)
