@@ -149,3 +149,48 @@ function fib(num){
   return fib(num-1) + fib(num-2);
 }
 ```
+
+### reverse
+```js
+
+```
+
+### isPalindrome
+```js
+
+```
+
+### someRecursive
+```js
+
+```
+
+### flatten
+```js
+
+```
+
+### capitalizeFirst
+```js
+
+```
+
+### nestedEvenSum
+```js
+
+```
+
+### capitalizeWords
+```js
+
+```
+
+### stringifyNumbers
+```js
+
+```
+
+### collectStrings
+```js
+
+```
