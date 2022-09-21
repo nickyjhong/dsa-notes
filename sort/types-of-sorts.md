@@ -19,8 +19,8 @@
 - Time: O(n^2)
 #### [Selection Sort](/sort/selection-sort.md) - Smallest value is placed at the beginning on each pass
 - Time: O(n^2)
-#### [Insertion Sort](/sort/insertion-sort.md)
-
+#### [Insertion Sort](/sort/insertion-sort.md) - Build up a sort on left portion of array by inserting/swapping values
+- Time: O(n^2)
 
 ### More advanced sort methods:
 #### [Merge Sort](/sort/merge-sort.md)
