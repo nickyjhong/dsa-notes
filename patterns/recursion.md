@@ -152,45 +152,68 @@ function fib(num){
 
 ### reverse
 ```js
+// Write a recursive function called reverse which accepts a string and returns a new string in reverse.
+function reverse(str){
+	if(str.length === 0) return '';
+	return reverse(str.slice(1)) + str[0];
+}
 
+reverse('bean')
+  return reverse('ean') + 'b' = 'naeb'
+          return reverse('an') + 'e' = 'nae'
+                  return reverse('n') + 'a' = 'na'
+                          return reverse('') + 'n'
 ```
 
 ### isPalindrome
 ```js
-
+// Write a recursive function called isPalindrome which returns true if the string passed to it is a palindrome (reads the same forward and backward). Otherwise it returns false.
+function isPalindrome(str){
+  // base cases
+  if(str.length === 1) return true;
+  if(str.length === 2) return str[0] === str[1];
+  if(str[0] === str.slice(-1)) return isPalindrome(str.slice(1,-1))
+  
+  return false;
+}
 ```
 
 ### someRecursive
 ```js
-
+// Write a recursive function called someRecursive which accepts an array and a callback. The function returns true if a single value in the array returns true when passed to the callback. Otherwise it returns false.
+function someRecursive(arr, callback) {
+    if (arr.length === 0) return false;
+    if (callback(arr[0])) return true;
+    return someRecursive(arr.slice(1),callback);
+}
 ```
 
-### flatten
+<!-- ### flatten
 ```js
-
+// Write a recursive function called flatten which accepts an array of arrays and returns a new array with all values flattened.
 ```
 
 ### capitalizeFirst
 ```js
-
+// Write a recursive function called capitalizeFirst. Given an array of strings, capitalize the first letter of each string in the array.
 ```
 
 ### nestedEvenSum
 ```js
-
+// Write a recursive function called nestedEvenSum. Return the sum of all even numbers in an object which may contain nested objects.
 ```
 
 ### capitalizeWords
 ```js
-
+// Write a recursive function called capitalizeWords. Given an array of words, return a new array containing each word capitalized.
 ```
 
 ### stringifyNumbers
 ```js
-
+// Write a function called stringifyNumbers which takes in an object and finds all of the values which are numbers and converts them to strings. Recursion would be a great way to solve this!
 ```
 
 ### collectStrings
 ```js
-
-```
+// Write a function called collectStrings which accepts an object and returns an array of all the values in the object that have a typeof string
+``` -->

@@ -22,6 +22,7 @@
 
 ## Big O
 - Time: O(n^2)
+- Space: O(1)
 
 ## Pseudocode
 - Start looping with a variable called i from the end of the array towards the beginning

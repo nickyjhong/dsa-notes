@@ -7,6 +7,7 @@
 
 ## Big O
 - Time: O(n^2)
+- Space: O(1)
 
 ## Pseudocode
 - Store the first element as the smallest value you've seen so far

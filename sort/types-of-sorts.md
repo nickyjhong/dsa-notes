@@ -5,7 +5,7 @@
 - There are many different ways to sort things, and different techniques have their own advantages and disadvantages
 - Classic interview topic because it has so many different approaches
 
-## Sorts
+## [Sorts](https://www.toptal.com/developers/sorting-algorithms)
 #### JavaScript built-in sort method
 - But it doesn't always work the way you expect
   ```js
@@ -22,9 +22,14 @@
 #### [Insertion Sort](/sort/insertion-sort.md) - Build up a sort on left portion of array by inserting/swapping values
 - Time: O(n^2)
 
-### More advanced sort methods:
-#### [Merge Sort](/sort/merge-sort.md)
+![Big O Elementary Sorts](./images/big-o-elementary-sorts.png)
+- In the grand scheme of things, bubble sort, selection sort, and insertion sort are all roughly equivalent
+- These sorting methods work best when the data is small but it doesn't scale well
 
+### More advanced sort methods:
+#### [Merge Sort](/sort/merge-sort.md) - Breaks array into halves until it only has 0 or 1 elements and then merges into a sorted array
+- Time: O(n log n)
+- Space: O(n)
 #### [Quick Sort](/sort/quick-sort.md)
 
 #### [Radix Sort](/sort/radix-sort.md)
