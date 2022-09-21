@@ -15,10 +15,10 @@
 - Accepts an optional *comparator* function to say how to sort
 
 ### Less commonly used sort methods because they're less efficient:
-#### [Bubble Sort](/sort/bubble-sort.md)
+#### [Bubble Sort](/sort/bubble-sort.md) - Largest value "bubbles" up to the top
 - Time: O(n^2)
-#### [Selection Sort](/sort/selection-sort.md)
-
+#### [Selection Sort](/sort/selection-sort.md) - Smallest value is placed at the beginning on each pass
+- Time: O(n^2)
 #### [Insertion Sort](/sort/insertion-sort.md)
 
 
