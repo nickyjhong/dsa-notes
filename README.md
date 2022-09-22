@@ -6,3 +6,4 @@ Join me on my journey of learning JavaScript data structures and algorithms. It'
 ### [Patterns](patterns.md)
 ### [Big O](big-o.md)
 ### [Sort](sort.md)
+### [Linked Lists](linked-lists.md)
