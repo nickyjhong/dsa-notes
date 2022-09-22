@@ -30,6 +30,9 @@
 #### [Merge Sort](/sort/merge-sort.md) - Breaks array into halves until it only has 0 or 1 elements and then merges into a sorted array
 - Time: O(n log n)
 - Space: O(n)
-#### [Quick Sort](/sort/quick-sort.md)
-
+#### [Quick Sort](/sort/quick-sort.md) - Uses a pivot to figure out where it should end up in the final sorted array
+- Time:
+  - Best and average: O(n log n)
+  - Worst: O(n^2)
+- Space: O(log n)
 #### [Radix Sort](/sort/radix-sort.md)
