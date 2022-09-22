@@ -35,4 +35,6 @@
   - Best and average: O(n log n)
   - Worst: O(n^2)
 - Space: O(log n)
-#### [Radix Sort](/sort/radix-sort.md)
+#### [Radix Sort](/sort/radix-sort.md) - Separate into buckets (by last digit) and reform into an array to sort
+- Time: O(nk) -> n is number of things that are being sorted, k is length of the thing being sorted
+- Space: O(n + k)
