@@ -11,6 +11,6 @@
   - **Next**
   - **Previous**
 
-## Contents
-### [Singly Linked Lists](/linked-lists/singly-linked-lists.md)
-### [Doubly Linked Lists](/linked-lists/doubly-linked-lists.md)
+## Topics
+- [Singly Linked Lists](/linked-lists/singly-linked-lists.md)
+- [Doubly Linked Lists](/linked-lists/doubly-linked-lists.md)
