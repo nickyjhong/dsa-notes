@@ -65,7 +65,7 @@ class Node {
 }
 ```
 ### Breakdown / Pseudocodes
-#### **Push** - add a value to the **top** of the stack
+#### **Push** - adding a value to the **top** of the stack
 - The function should accept a value
 - Create a new node with that value
 - If there are no nodes in the stack, set the first and last property to be the newly created node
@@ -87,7 +87,7 @@ class Node {
     return this.size++
   }
   ```
-#### **Pop** - remove a value from the  **top** of the stack
+#### **Pop** - removing a value from the  **top** of the stack
 - If there are no nodes in the stack, return null
 - Create a temporary variable to store the first property on the stack
 - If there is only 1 node, set the first and last property to be null
