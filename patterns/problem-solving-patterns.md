@@ -1,5 +1,7 @@
 # Problem Solving Patterns
-[⬅ Go Back](/patterns.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/patterns.md)
 
 ## REACTO
 ### **R**epeat the problem

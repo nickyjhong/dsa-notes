@@ -1,5 +1,7 @@
 # Reursion
-[⬅ Go Back](/patterns.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/patterns.md)
 
 <p align="center">
   <img src="images/recursion.jpg" alt="drawing" width=500px />

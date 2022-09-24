@@ -1,5 +1,7 @@
 # Doubly Linked Lists
-[⬅ Go Back](/linked-lists.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/linked-lists.md)
 
 ![Doubly Linked List](./images/d-linkedlist.png)
 

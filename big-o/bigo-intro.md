@@ -1,5 +1,7 @@
 # What Is Big O?
-[⬅ Go Back](/big-o.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic ](/big-o.md)
 
 ## Notes
 - Big O is always worst case scenario (upper bound of run time)

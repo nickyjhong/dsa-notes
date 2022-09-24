@@ -1,5 +1,7 @@
 # Big O Time in Objects and Arrays
-[⬅ Go Back](/big-o.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/big-o.md)
 
 ## Objects
 - Don't need order

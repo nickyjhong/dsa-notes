@@ -1,5 +1,7 @@
 # Merge Sort
-[⬅ Go Back](/sort.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/sort.md)
 
 ![Merge Sort](./images/merge-sort.png)
 

@@ -12,5 +12,5 @@
   - **Previous**
 
 ## Topics
-- [Singly Linked Lists](/linked-lists/singly-linked-lists.md)
-- [Doubly Linked Lists](/linked-lists/doubly-linked-lists.md)
+- [Singly Linked Lists](/data-structures/singly-linked-lists.md)
+- [Doubly Linked Lists](/data-structures/doubly-linked-lists.md)

@@ -1,5 +1,7 @@
 # Types of Sorts
-[⬅ Go Back](/sort.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/sort.md)
 
 ## Why do I need to know different types of sorts?
 - There are many different ways to sort things, and different techniques have their own advantages and disadvantages

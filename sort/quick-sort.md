@@ -1,5 +1,7 @@
 # Quick Sort
-[⬅ Go Back](/sort.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/sort.md)
 
 ## Notes
 - Like merge sort, it exploits the fact that arrays of 0 or 1 element are always sorted

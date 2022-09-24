@@ -1,5 +1,7 @@
 # Radix Sort
-[⬅ Go Back](/sort.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/sort.md)
 
 ## Notes
 - Does not make comparisons between elements

@@ -1,5 +1,7 @@
 # Bubble Sort
-[⬅ Go Back](/sort.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/sort.md)
 
 ## Notes
 - **Obama said it's not good to use**

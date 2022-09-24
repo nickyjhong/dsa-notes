@@ -1,5 +1,7 @@
 # Insertion Sort
-[⬅ Go Back](/sort.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/sort.md)
 
 ## Notes
 - Similar to bubble and selection sorts

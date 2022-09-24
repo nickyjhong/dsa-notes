@@ -1,5 +1,7 @@
 # Searching Algorithms
-[⬅ Go Back](/patterns.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/patterns.md)
 
 ## Linear Search
 - Visit one item at a time (set interval)

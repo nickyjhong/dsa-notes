@@ -1,5 +1,7 @@
 # Singly Linked Lists
-[⬅ Go Back](/linked-lists.md)
+[⬅ Go Back to Home](../README.md)
+
+[⬅ Go Back to Topic](/linked-lists.md)
 
 ![Singly Linked List](./images/s-linkedlist.png)
 
