@@ -8,6 +8,9 @@
 - **Siblings** - a group of nodes with the same parent
 - **Leaf** - a node with no children
 - **Edge** - the connection between two nodes (arrow)
+- **Size** - the number of nodes the tree has
+- **Height** - the maximum "level" of the tree
 
 ## Topics
 - [Binary Search Tree Intro](/data-structures/binary-search-trees.md)
+- [Tree Traversal (BFS, DFS)](/data-structures/tree-traversal.md)
