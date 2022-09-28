@@ -37,3 +37,5 @@ If you don't want to click through all of the different topics, scroll down to s
 - [Queues](/data-structures/queues.md)
 - [Binary Search Trees](/data-structures/binary-search-trees.md)
 - [Tree Traversal](/data-structures/tree-traversal.md)
+- [Binary Heaps](/data-structures/binary-heaps.md)
+- [Priority Queue](/data-structures/priority-queue.md)

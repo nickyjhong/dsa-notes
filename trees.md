@@ -14,3 +14,5 @@
 ## Topics
 - [Binary Search Tree Intro](/data-structures/binary-search-trees.md)
 - [Tree Traversal (BFS, DFS)](/data-structures/tree-traversal.md)
+- [Binary Heaps](/data-structures/binary-heaps.md)
+- [Priority Queue](/data-structures/priority-queue.md)

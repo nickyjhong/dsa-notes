@@ -6,7 +6,6 @@
 ![BST](./images/bst.jpg)
 
 ## Notes
-
 - A data structure that consists of nodes in a parent/child relationship
 - Lists are linear, trees are **nonlinear**
 - Nodes can have **AT MAX** two children
