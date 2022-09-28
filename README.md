@@ -10,7 +10,8 @@ If you don't want to click through all of the different topics, scroll down to s
 - [Sort](sort.md)
 - [Linked Lists](linked-lists.md)
 - [Stacks + Queues](stacks-queues.md)
-- [Trees](/trees.md)
+- [Trees](trees.md)
+- [Hash Tables](hash-tables.md)
 
 <hr>
 
@@ -39,3 +40,5 @@ If you don't want to click through all of the different topics, scroll down to s
 - [Tree Traversal](/data-structures/tree-traversal.md)
 - [Binary Heaps](/data-structures/binary-heaps.md)
 - [Priority Queue](/data-structures/priority-queue.md)
+- [Hash Function](/data-structures/hash-function.md)
+- [Hash Tables](/data-structures/hash-table.md)
