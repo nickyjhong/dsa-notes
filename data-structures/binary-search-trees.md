@@ -10,6 +10,8 @@
 - A data structure that consists of nodes in a parent/child relationship
 - Lists are linear, trees are **nonlinear**
 - Nodes can have **AT MAX** two children
+- Has exactly 1 root
+- Has exactly 1 p ath between root and any node3
 - MUST BE SORTED!
   ### - **Left children nodes** are LESS than parent node, **right children nodes** are GREATER than parent node
 

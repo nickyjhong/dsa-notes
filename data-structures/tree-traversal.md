@@ -55,6 +55,23 @@ data: [10, 6, 15]
 queue: []
 data: [10, 6, 15, 3, 8, 20]
 ```
+#### Alternative
+```js
+const breadthFirstValues = (root) => {
+  if (root === null) return [];
+  let queue = [ root ];
+  let result = [];
+  
+  while(queue.length > 0) {
+    const node = queue.shift();
+    result.push(node.val);
+    
+    if(node.left !== null) queue.push(node.left);
+    if(node.right !== null) queue.push(node.right);
+  }
+  return result;
+};
+```
 ### Pseudocode
 - Create a queue (this can be an array - FIFO) and a variable to store the values of nodes visited
 - Place the root node in the queue
@@ -83,6 +100,31 @@ DFSPreOrder() {
   traverse(current);
   return data
 }
+```
+#### Iterative
+```js
+const depthFirstValues = (root) => {
+  if (root === null) return []
+  let stack = [ root ];
+  let data = []
+  
+  while (stack.length > 0) {
+    const current = stack.pop();
+    data.push(current.val)
+    if(current.right) stack.push(current.right);    
+    if(current.left) stack.push(current.left);
+  }
+  return data
+};
+```
+#### Recursive
+```js
+const depthFirstValues = (root) => {
+  if (root === null) return [];
+  const leftData = depthFirstValues(root.left)
+  const rightData = depthFirstValues(root.right)
+  return [root.val, ...leftData, ...rightData]
+};
 ```
 ### Pseudocode
 - Create a variable to store the values of nodes visited
