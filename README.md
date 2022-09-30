@@ -45,3 +45,5 @@ If you don't want to click through all of the different topics, scroll down to s
 - [Hash Tables](/data-structures/hash-table.md)
 - [Graphs](/data-structures/graphs-intro.md)
 - [Adjacency List](/data-structures/graph-adjacency-list.md)
+- [Graph Traversal DFS](/data-structures/graph-traversal-DFS.md)
+- [Graph Traversal BFS](/data-structures/graph-traversal-BFS.md)

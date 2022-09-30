@@ -10,3 +10,5 @@
 ## Topics
 - [Graphs Intro](./data-structures/graphs-intro.md)
 - [Adjacency List](./data-structures/graph-adjacency-list.md)
+- [Graph Traversal DFS](/data-structures/graph-traversal-DFS.md)
+- [Graph Traversal BFS](/data-structures/graph-traversal-BFS.md)
