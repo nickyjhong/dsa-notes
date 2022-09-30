@@ -12,6 +12,7 @@ If you don't want to click through all of the different topics, scroll down to s
 - [Stacks + Queues](stacks-queues.md)
 - [Trees](trees.md)
 - [Hash Tables](hash-tables.md)
+- [Graphs](graphs.md)
 
 <hr>
 
@@ -42,3 +43,5 @@ If you don't want to click through all of the different topics, scroll down to s
 - [Priority Queue](/data-structures/priority-queue.md)
 - [Hash Function](/data-structures/hash-function.md)
 - [Hash Tables](/data-structures/hash-table.md)
+- [Graphs](/data-structures/graphs-intro.md)
+- [Adjacency List](/data-structures/graph-adjacency-list.md)
